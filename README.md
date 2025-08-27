@@ -45,20 +45,13 @@ Though Victor is just as fitting, for I navigate the realms of software developm
 
 <br>
 
-<h2 align="center"><img src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="30px" height="30px" />My Git Palace</h2> 
-
-<p align="center">
-  <img src="https://github.com/mooncoded/mooncoded/blob/main/final-dialogue.gif">
-</p>
-
-
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=katsumidev&show_icons=true&title_color=E90803&icon_color=E90803&bg_color=000&text_color=fff&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api?username=katsumidev&show_icons=true&title_color=81ccf4&icon_color=81ccf4&bg_color=000&text_color=fff&layout=compact" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsumidev&title_color=E90803&icon_color=E90803&bg_color=000&text_color=fff&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsumidev&title_color=81ccf4&icon_color=81ccf4&bg_color=000&text_color=fff&layout=compact" />
     </td>
   </tr>
 </table>
