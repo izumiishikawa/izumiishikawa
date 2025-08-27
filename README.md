@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/mooncoded/mooncoded/blob/main/dialogue-box.png">
+  <img src="https://github.com/izumiishikawa/izumiishikawa/blob/main/Izumi-Greetings!%20I%E2%80%99m%20Izumi.%20Feel%20free%20to%20take_%20a%20look%20around..%20xD.png">
 </p>
 
 <div align="center">
 
 <p>
-Though Victor is just as fitting, for I navigate the realms of software development with the finesse of a seasoned Sourcerer. Through lines of code, I conjure solutions, sculpting digital landscapes with a touch of magic and a dash of logic. Welcome to the realm where technology meets enchantment, where Katsumi and Victor unite in the pursuit of innovation
+Though Satsuki is just as fitting, for I navigate the realms of software development with the finesse of a seasoned Sourcerer. Through lines of code, I conjure solutions, sculpting digital landscapes with a touch of magic and a dash of logic. Welcome to the realm where technology meets enchantment.
 </p>
   
 <strong><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> - Arthur C. Clarke </strong>
@@ -14,7 +14,7 @@ Though Victor is just as fitting, for I navigate the realms of software developm
 
 </div>
 
-<h3 align="center">🌹 My artifacts and code-casting spells</h3>
+<h3 align="center">🌀 My artifacts and code-casting spells 🌀</h3>
 
 <div align="center">
 <br>
