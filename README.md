@@ -48,10 +48,10 @@ Though Satsuki is just as fitting, for I navigate the realms of software develop
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=katsumidev&show_icons=true&title_color=81ccf4&icon_color=81ccf4&bg_color=000&text_color=fff&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api?username=izumiishikawa&show_icons=true&title_color=81ccf4&icon_color=81ccf4&bg_color=000&text_color=fff&layout=compact" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsumidev&title_color=81ccf4&icon_color=81ccf4&bg_color=000&text_color=fff&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumiishikawa&title_color=81ccf4&icon_color=81ccf4&bg_color=000&text_color=fff&layout=compact" />
     </td>
   </tr>
 </table>
