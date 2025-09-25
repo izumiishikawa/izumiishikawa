@@ -5,16 +5,16 @@
 <div align="center">
 
 <p>
-Though Ishikawa is just as fitting, for I navigate the realms of software development with the finesse of a seasoned Sourcerer. Through lines of code, I conjure solutions, sculpting digital landscapes with a touch of magic and a dash of logic. Welcome to the realm where technology meets enchantment.
+I’m Izumi, though Ishikawa works just as well. I see programming as a craft: part discipline, part artistry. My work is about building systems that feel intentional, balancing clean logic with design that leaves an impression. Think of this space as a study filled with notebooks, code, and the quiet hum of ideas turning into something concrete.
 </p>
   
-<strong><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> - Arthur C. Clarke </strong>
-
-<br>
+<strong><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> – Arthur C. Clarke </strong>
 
 </div>
 
-<h3 align="center">🌀 My artifacts and code-casting spells 🌀</h3>
+---
+
+<h3 align="center">My tools of choice 🖋️</h3>
 
 <div align="center">
 <br>
@@ -48,12 +48,10 @@ Though Ishikawa is just as fitting, for I navigate the realms of software develo
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=izumiishikawa&show_icons=true&title_color=81ccf4&icon_color=81ccf4&bg_color=000&text_color=fff&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api?username=izumiishikawa&show_icons=true&title_color=c4a484&icon_color=c4a484&bg_color=000&text_color=fff&layout=compact" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumiishikawa&title_color=81ccf4&icon_color=81ccf4&bg_color=000&text_color=fff&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumiishikawa&title_color=c4a484&icon_color=c4a484&bg_color=000&text_color=fff&layout=compact" />
     </td>
   </tr>
 </table>
-
-
