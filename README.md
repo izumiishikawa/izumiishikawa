@@ -42,16 +42,3 @@ I’m Izumi, though Ishikawa works just as well. I see programming as a craft: p
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A.svg?logo=react&logoColor=white"></a>
 </p>
 </div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=izumiishikawa&show_icons=true&title_color=c4a484&icon_color=c4a484&bg_color=000&text_color=fff&layout=compact" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izumiishikawa&title_color=c4a484&icon_color=c4a484&bg_color=000&text_color=fff&layout=compact" />
-    </td>
-  </tr>
-</table>
