@@ -5,7 +5,7 @@
 <div align="center">
 
 <p>
-I’m Izumi, though Ishikawa works just as well. I see programming as a craft: part discipline, part artistry. My work is about building systems that feel intentional, balancing clean logic with design that leaves an impression. Think of this space as a study filled with notebooks, code, and the quiet hum of ideas turning into something concrete.
+I’m Izumi, I see programming as a craft: part discipline, part artistry. My work is about building systems that feel intentional, balancing clean logic with design that leaves an impression. Think of this space as a study filled with notebooks, code, and the quiet hum of ideas turning into something concrete.
 </p>
   
 <strong><i>“Any sufficiently advanced technology is indistinguishable from magic.”</i> – Arthur C. Clarke </strong>
