@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/izumiishikawa/izumiishikawa/blob/main/Izumi-Greetings!%20I%E2%80%99m%20Izumi.%20Feel%20free%20to%20take_%20a%20look%20around..%20xD.png">
+  <img src="https://github.com/izumiishikawa/izumiishikawa/blob/main/b3d0759b-c777-4de2-9f1b-181c558efb65-Photoroom.png">
 </p>
 
 <div align="center">
