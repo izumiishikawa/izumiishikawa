@@ -14,7 +14,7 @@ I’m Izumi, I see programming as a craft: part discipline, part artistry. My wo
 
 ---
 
-<h3 align="center">My tools of choice 🖋️</h3>
+<h3 align="center">My tools of choice</h3>
 
 <div align="center">
 <br>
